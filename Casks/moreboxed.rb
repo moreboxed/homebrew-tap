@@ -1,6 +1,6 @@
 cask "moreboxed" do
-  version "0.1.23"
-  sha256 "e597cee30264a41dbf94020f9cfb4a2e82e8f89f4a9bbaccbb7344f84ddc66e4"
+  version "0.1.24"
+  sha256 "d1e9dbf4bfd5272d649904b03ab0697790452c6e7024816273cb75d1d0147ffe"
 
   url "https://github.com/moreboxed/releases/releases/download/v#{version}/Moreboxed-#{version}.zip"
   name "Moreboxed"
